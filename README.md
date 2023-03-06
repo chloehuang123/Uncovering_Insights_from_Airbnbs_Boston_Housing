@@ -20,6 +20,10 @@ The main motivation for the project was to fulfill the requirements of the Udaci
 
 [uncovering-insights-from-airbnb-s-boston-housing.ipynb](https://github.com/chloehuang123/uncovering_insights_from_airbnbs_boston_housing/blob/main/uncovering-insights-from-airbnb-s-boston-housing.ipynb)
 
+Data: boston_listings.csv, boston_reviews.csv, positive-words.txt:, negative-words.txt
+
+
+
 
 
 
