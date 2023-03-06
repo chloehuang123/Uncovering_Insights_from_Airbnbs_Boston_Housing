@@ -1,5 +1,7 @@
 # Uncovering Insights From Airbnb's Boston Housing
 
+The blog post is here: [Insights into the Boston Airbnb Market](https://medium.com/@chloenanh90/insights-into-the-boston-airbnb-market-218b8deed555)
+
 This is a project for the Udacity Data Scientist Nanodegree, where the goal is to explore AirBnB Boston housing data and answer three questions of interest:
 
 1. Are prices predominantly influenced by a listing's location or by its amenities and features?
