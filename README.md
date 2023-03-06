@@ -8,3 +8,7 @@ This is a project for the Udacity Data Scientist Nanodegree, where the goal is t
 
 3. How effective are the provided data attributes in predicting a listing's price?
 
+The project uses Python 3.9.7 and several libraries, including Pandas, Numpy, Sci-Kit Learn, and Matplotlib.
+
+
+
